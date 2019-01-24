@@ -1,0 +1,15 @@
+table question categories
+ --id
+ --question category
+table question
+ --id
+ -- categoryid
+ -- question
+table answer
+  --id
+  --questionid
+ -- question title
+  --answer
+API's
+backend api to manage question categories, question,answer
+frontend api to display question categories 

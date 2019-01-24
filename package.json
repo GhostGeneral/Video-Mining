@@ -1,0 +1,49 @@
+{
+  "name": "examabnomality",
+  "version": "1.0.0",
+  "description": "exam abnomality in a video",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GhostGeneral"
+  },
+  "author": "Awotundun Afeez",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "awesome-phonenumber": "^2.2.6",
+    "aws-sdk": "^2.345.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "btoa": "^1.2.1",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^0.4.0",
+    "formidable": "^1.2.1",
+    "geopoint": "^1.0.1",
+    "google-distance": "^1.0.1",
+    "handlebars": "^4.0.11",
+    "js-base64": "^2.4.9",
+    "jsonwebtoken": "^8.2.1",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "morgan": "^1.9.1",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.6.4",
+    "node-geocoder": "^3.22.0",
+    "nodemailer": "^4.6.4",
+    "numeral": "^2.0.6",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "sequelize": "^4.42.0",
+    "socket.io": "^2.1.1",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
